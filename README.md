@@ -74,7 +74,7 @@
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cybersecurityalexandre)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asoel@iscte-iul.pt)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://github.com/0x6a03448f4d/HackTheBox/blob/main/HTB%20Academy%20Student%20Transcript.pdf)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://github.com/0x6a03448f4d/HTB/blob/main/HTB%20Academy%20Student%20Transcript.pdf)
 
 ---
 
